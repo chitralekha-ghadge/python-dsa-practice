@@ -9,11 +9,11 @@ This repository contains Python practice programs based on Data Structures and A
 ## 📂 day6_part1.py
 
 ### Programs Included:
-1. Reverse Each Word in a String
-2. Check for Valid Parentheses
-3. Insertion Sort
-4. Selection Sort
-5. Built-in Sorting Method
+- Reverse Each Word in a String
+- Check for Valid Parentheses
+- Insertion Sort
+- Selection Sort
+- Built-in Sorting Method
 
 ### Concepts Practiced:
 - String Manipulation
@@ -27,12 +27,12 @@ This repository contains Python practice programs based on Data Structures and A
 ## 📂 day6_part2.py
 
 ### Programs Included:
-1. Find All Duplicates in a List
-2. Sort Dictionary by Key or Value
-3. Instance Variable Example
-4. Static Variable Example
-5. Difference Between Static and Instance Variable
-6. Linked List Implementation
+- Find All Duplicates in a List
+- Sort Dictionary by Key or Value
+- Instance Variable Example
+- Static Variable Example
+- Difference Between Static and Instance Variable
+- Linked List Implementation
 
 ### Concepts Practiced:
 - Dictionary
@@ -47,16 +47,16 @@ This repository contains Python practice programs based on Data Structures and A
 ## 📂 day7_part1.py
 
 ### Programs Included:
-1. First Non-Repeating Character
-2. Recursion Notes
-3. Factorial using Recursion
-4. Capitalize First Letter
-5. Power Function
-6. Product of Array
-7. Reverse String using Recursion
-8. Recursive Range
-9. Palindrome Check
-10. someRecursive Solution
+- First Non-Repeating Character
+- Recursion Notes
+- Factorial using Recursion
+- Capitalize First Letter
+- Power Function
+- Product of Array
+- Reverse String using Recursion
+- Recursive Range
+- Palindrome Check
+- someRecursive Solution
 
 ### Concepts Practiced:
 - Recursion
@@ -69,15 +69,15 @@ This repository contains Python practice programs based on Data Structures and A
 ## 📂 day7_part2.py
 
 ### Programs Included:
-1. Maximum Product Pair Problem
-2. Tree Representation
-3. Tree Example using Nodes
-4. Time Complexity of Tree Operations
-5. Insert Node at Tail
-6. Sort Colors Problem
-7. Insertion Sort - Part 1
-8. Recursive Digit Sum
-9. Array Rotation
+- Maximum Product Pair Problem
+- Tree Representation
+- Tree Example using Nodes
+- Time Complexity of Tree Operations
+- Insert Node at Tail
+- Sort Colors Problem
+- Insertion Sort - Part 1
+- Recursive Digit Sum
+- Array Rotation
 
 ### Concepts Practiced:
 - Arrays
@@ -85,6 +85,56 @@ This repository contains Python practice programs based on Data Structures and A
 - Linked List
 - Recursion
 - Sorting
+- HackerRank Problems
+- LeetCode Problems
+
+---
+
+# Day 8 Practice Programs
+
+## 📂 day8_part1.py
+
+### Programs Included:
+- Remove Leading Zeros from List
+- First Missing Positive Integer
+- Smallest Missing Positive Integer
+- Binary Tree Notes
+- Binary Search Tree (BST)
+- BST Traversals
+- BST Search Operation
+
+### Concepts Practiced:
+- Arrays
+- Binary Tree
+- Binary Search Tree
+- BST Traversals
+- Searching
+- Problem Solving
+
+---
+
+## 📂 day8_part2.py
+
+### Programs Included:
+- Print Elements of Linked List
+- Left Rotation of Array
+- Best Time to Buy and Sell Stock
+- Palindrome Number
+- Permutations using Backtracking
+- Combination Sum
+- Exception Handling
+- Logging in Python
+- CSV File Handling
+- Student Result CSV Project
+
+### Concepts Practiced:
+- Linked List
+- Arrays
+- Backtracking
+- Exception Handling
+- Logging
+- File Handling
+- CSV Operations
 - HackerRank Problems
 - LeetCode Problems
 
@@ -104,6 +154,8 @@ python-dsa-practice/
 ├── day6_part2.py
 ├── day7_part1.py
 ├── day7_part2.py
+├── day8_part1.py
+├── day8_part2.py
 └── README.md
 ```
 
