@@ -1,6 +1,6 @@
 # Python DSA Practice 🚀
 
-This repository contains Python practice programs based on Data Structures and Algorithms (DSA).
+This repository contains Python practice programs based on Data Structures and Algorithms (DSA), Regular Expressions, File Handling, and OOP Concepts.
 
 ---
 
@@ -33,6 +33,7 @@ This repository contains Python practice programs based on Data Structures and A
 - Static Variable Example
 - Difference Between Static and Instance Variable
 - Linked List Implementation
+- Menu Driven Linked List Program
 
 ### Concepts Practiced:
 - Dictionary
@@ -75,7 +76,7 @@ This repository contains Python practice programs based on Data Structures and A
 - Time Complexity of Tree Operations
 - Insert Node at Tail
 - Sort Colors Problem
-- Insertion Sort - Part 1
+- Insertion Sort Part 1
 - Recursive Digit Sum
 - Array Rotation
 
@@ -98,18 +99,16 @@ This repository contains Python practice programs based on Data Structures and A
 - Remove Leading Zeros from List
 - First Missing Positive Integer
 - Smallest Missing Positive Integer
-- Binary Tree Notes
 - Binary Search Tree (BST)
 - BST Traversals
-- BST Search Operation
+- Search Node in BST
 
 ### Concepts Practiced:
 - Arrays
-- Binary Tree
 - Binary Search Tree
-- BST Traversals
+- Tree Traversals
 - Searching
-- Problem Solving
+- Recursion
 
 ---
 
@@ -117,30 +116,123 @@ This repository contains Python practice programs based on Data Structures and A
 
 ### Programs Included:
 - Print Elements of Linked List
-- Left Rotation of Array
+- Left Rotation
 - Best Time to Buy and Sell Stock
 - Palindrome Number
-- Permutations using Backtracking
+- Permutations
 - Combination Sum
 - Exception Handling
-- Logging in Python
+- Logging
 - CSV File Handling
-- Student Result CSV Project
+- Student Record Management
 
 ### Concepts Practiced:
 - Linked List
 - Arrays
+- Recursion
 - Backtracking
 - Exception Handling
 - Logging
 - File Handling
 - CSV Operations
-- HackerRank Problems
-- LeetCode Problems
+
+---
+
+# Day 9 Practice Programs
+
+## 📂 day9_part1.py
+
+### Programs Included:
+- Tree Preorder Traversal
+- Tree Inorder Traversal
+- Tree Postorder Traversal
+- Stack using Linked List
+- Queue using Linked List
+
+### Concepts Practiced:
+- Binary Search Tree
+- Tree Traversals
+- Stack
+- Queue
+- Linked List
+- FIFO and LIFO Concepts
+
+---
+
+## 📂 day9_part2.py
+
+### Programs Included:
+- Graph using Adjacency List
+- Static Method Example
+- Single Inheritance
+- Multilevel Inheritance
+- Multiple Inheritance
+- Method Overriding
+- Constructor Overriding
+
+### Concepts Practiced:
+- Graph
+- OOP Concepts
+- Inheritance
+- Polymorphism
+- Static Methods
+
+---
+
+# Day 10 Practice Programs
+
+## 📂 day10_part1.py
+
+### Programs Included:
+- finditer() Function
+- match() Function
+- fullmatch() Function
+- search() Function
+- findall() Function
+- sub() Function
+- subn() Function
+- Gmail Validation
+- College Email Validation
+- Mobile Number Validation
+- Extract Mobile Numbers from File
+- Extract Email IDs from File
+- Count Lines, Words and Characters in File
+
+### Concepts Practiced:
+- Regular Expressions
+- Pattern Matching
+- Email Validation
+- Mobile Validation
+- File Handling
+- Data Extraction
+
+---
+
+## 📂 day10_part2.py
+
+### Programs Included:
+- Graph using Adjacency Matrix
+- Add Edge in Graph
+- Remove Edge in Graph
+- Display Adjacency Matrix
+- Hashing Introduction
+- Hash Function
+- Collision in Hashing
+- Hash Table Implementation
+- Time Complexity of Hashing
+
+### Concepts Practiced:
+- Graph
+- Adjacency Matrix
+- Hashing
+- Hash Table
+- Collision Handling
+- Time Complexity Analysis
 
 ---
 
 # Language Used
+
 - Python 🐍
 
 ---
@@ -156,10 +248,8 @@ python-dsa-practice/
 ├── day7_part2.py
 ├── day8_part1.py
 ├── day8_part2.py
+├── day9_part1.py
+├── day9_part2.py
+├── day10_part1.py
+├── day10_part2.py
 └── README.md
-```
-
----
-
-# Author ✨
-Chitralekha Ghadge
